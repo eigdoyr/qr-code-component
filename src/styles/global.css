@@ -1,0 +1,12 @@
+:root {
+  --light-gray: hsl(191, 39%, 49%);
+  --blue: hsl(214, 100%, 54%);
+  --light-blue: hsl(189, 84%, 65%);
+  --dark: hsl(232, 10%, 16%);
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  background: var(--blue);
+}
